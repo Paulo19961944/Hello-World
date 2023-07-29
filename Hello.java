@@ -7,6 +7,8 @@ public class Hello {
         System.out.println ("Hello World");	
 
         /* Comentário Multi Linhas */
+
+        /** Documentação */
     
     }
 }
